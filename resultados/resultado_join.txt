@@ -1,1 +1,4 @@
-9	kms
+P100	Laptop Pro	5
+P100	Laptop Pro	3
+P200	Ratón Inalambrico	12
+P300	Teclado Mecánico	7

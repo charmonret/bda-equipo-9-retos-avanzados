@@ -1,1 +1,5 @@
-23	allowed
+departamento_a2021300
+departamento_a2022100
+departamento_a2023150
+departamento_b2020500
+departamento_b2023200
